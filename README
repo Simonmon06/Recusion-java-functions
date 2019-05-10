@@ -1,0 +1,16 @@
+
+
+Files: comp3007_w19_101036562_a1_1.java comp3007_w19_101036562_a1_2.pdf
+
+Make sure you are in the directory of the files.
+The exact compilation command:
+javac comp3007_w19_101036562_a1_1.java
+
+launching and operating instructions:
+java comp3007_w19_101036562_a1_1
+
+Test:
+Enter Snake Case String and press enter.
+The list of your input and the list of the Pig Latin will be shown.
+
+:)
